@@ -11,7 +11,6 @@ function Header() {
   return (
     <header className='header'>
       <nav className={`${isMenuActive ? 'header__nav' : 'header__active header__nav'}`}>
-        <h1 className='header__title'>Pierre Glade</h1>
         <ul>
           <li>
             <ScrollLink to="about" className='header__lien' smooth={true} duration={500} onClick={toggleMenu}>

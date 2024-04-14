@@ -43,7 +43,7 @@ function Contact() {
                             <i className="fa-solid fa-envelope"></i> <Link className='contact__text' to='mailto:shahingharbi73@yahoo.com'>glade.pierre@outlook.fr</Link>
                         </div>
                         <div className='contact__info'>
-                            <i className="fa-solid fa-phone "></i> <Link className='contact__text' to='tel:0782214993'>07.83.82.25.73</Link>
+                            <i className="fa-solid fa-phone "></i> <Link className='contact__text' to='tel:0782214993'>07.83.88.25.73</Link>
                         </div>
                     </div>
 
