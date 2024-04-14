@@ -1,0 +1,40 @@
+.hero {
+            background-image: url('https://images.pexels.com/photos/3877381/pexels-photo-3877381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+            background-size:cover;
+            height: 100vh; 
+            @include flex-center; 
+
+    
+    
+   
+    &__container {
+        padding: 80px 0;
+    }
+    &__info {
+        color: black;
+    }
+    &__title {
+        font-size: 60px;
+        margin: 0;
+    }
+    &__subtitle {
+        font-size: 20px;
+        margin: 0;
+        font-size: 26px;
+        text-align: center;
+    }
+    
+}
+
+
+@media (max-width : 768px) {
+    .hero {
+        height: auto;
+        &__title {
+            font-size: 35px;
+        }
+        &__subtitle {
+            font-size: 18px;
+        }
+    }
+}

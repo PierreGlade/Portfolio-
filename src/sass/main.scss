@@ -1,0 +1,16 @@
+@import './utils/mixins';
+@import './utils/variables';
+
+@import './base/generale';
+
+@import '../components/header/header';
+@import '../components//hero/hero';
+@import '../components/info/info';
+@import '../components/competence/competence';
+@import '../components/portfolio/portfolio';
+@import '../components//contact/contact';
+@import '../components/footer/footer';
+@import '../pages/error';
+
+
+
