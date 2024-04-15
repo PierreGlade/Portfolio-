@@ -9,7 +9,7 @@ function Info() {
           <div className='info__flex '>
           <div className='info__text'>
             <p className='info__subtitle'>
-            Passionné par le monde de la technologie, j'ai décidé de changer de carrière après dix ans passés dans le secteur de la restauration. Ma soif d'apprentissage m'a conduit à suivre une formation intensive en développement web. Fort de mes compétences acquises et de ma détermination, je suis désormais prêt à mettre en pratique mon savoir-faire pour créer des expériences en ligne innovantes et impactantes.
+            Passionné par le monde de la technologie, j'ai décidé de changer de carrière après dix ans passés dans le secteur de la restauration. Ma soif d'apprentissage m'a conduit à suivre une formation intensive en développement web avec <strong>Open Classrooms</strong> , un organisme de formation reconnu par l'Etat. Fort de mes compétences acquises et de ma détermination, je suis désormais prêt à mettre en pratique mon savoir-faire pour créer des expériences en ligne innovantes et impactantes.
             </p>
            
             </div>
